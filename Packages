@@ -1,0 +1,12 @@
+Package: com.patricktbp.globalizediscordnames
+Version: 1.0.1
+Section: Tweaks
+Maintainer: patricktbp
+Depends: firmware (>=10.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Filename: ./debs/GlobalizeDiscordNames.deb
+Size: 20742
+MD5sum: 101c46e0a3f8d963d002d8577c77f907
+Description: Patches Discord to use the new "global_name" attribute instead of "username". (iOS 10+)
+Name: GlobalizeDiscordNames
+Author: patricktbp

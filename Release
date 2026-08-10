@@ -1,0 +1,8 @@
+Origin: patricktbp's Repository
+Label: patricktbp's Repository
+Suite: stable
+Version: 0.1
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: A repository for me and my iOS projects.

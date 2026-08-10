@@ -1,0 +1,17 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+a {
+    color: #0099cc;
+    text-decoration: none;
+}
+
+.repo-links {
+    display: flex;
+
+    flex-direction: column;
+    align-items: center;
+
+    gap: 5px;
+}
