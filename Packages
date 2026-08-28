@@ -10,3 +10,29 @@ MD5sum: 101c46e0a3f8d963d002d8577c77f907
 Description: Patches Discord to use the new "global_name" attribute instead of "username". (iOS 10+)
 Name: GlobalizeDiscordNames
 Author: patricktbp
+
+Package: com.patricktbp.transparentwidgets
+Version: 1.0
+Section: Tweaks
+Maintainer: patricktbp
+Depends: firmware (>=14.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/TransparentWidgetsRootful.deb
+Size: 12352
+MD5sum: fa5f990dff92f7af6bffa609a73fdd32
+Description: Make all of your widgets blurred!
+Name: TransparentWidgets (Rootful)
+Author: patricktbp
+
+Package: com.patricktbp.transparentwidgets
+Version: 1.0
+Section: Tweaks
+Maintainer: patricktbp
+Depends: firmware (>=15.0), mobilesubstrate
+Architecture: iphoneos-arm64
+Filename: ./debs/TransparentWidgetsRootless.deb
+Size: 13282
+MD5sum: f58555bc8ad8525ab2c5660a76e9d359
+Description: Make all of your widgets blurred!
+Name: TransparentWidgets (Rootless)
+Author: patricktbp
