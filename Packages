@@ -18,8 +18,8 @@ Maintainer: patricktbp
 Depends: firmware (>=14.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/TransparentWidgetsRootful.deb
-Size: 12350
-MD5sum: fa5f990dff92f7af6bffa609a73fdd32
+Size: 12282
+MD5sum: 5e368a20306d86e080fb661f277bbd9a
 Description: Make all of your widgets blurred!
 Name: TransparentWidgets (Rootful)
 Author: patricktbp
@@ -31,8 +31,8 @@ Maintainer: patricktbp
 Depends: firmware (>=14.0), mobilesubstrate
 Architecture: iphoneos-arm64
 Filename: ./debs/TransparentWidgetsRootless.deb
-Size: 13274
-MD5sum: f58555bc8ad8525ab2c5660a76e9d359
+Size: 13252
+MD5sum: 749cd486dd20501f5e956ce900d944f6
 Description: Make all of your widgets blurred!
 Name: TransparentWidgets (Rootless)
 Author: patricktbp
