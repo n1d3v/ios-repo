@@ -36,3 +36,16 @@ MD5sum: 749cd486dd20501f5e956ce900d944f6
 Description: Make all of your widgets blurred!
 Name: TransparentWidgets (Rootless)
 Author: patricktbp
+
+Package: com.patricktbp.lockback
+Version: 1.0
+Section: Tweaks
+Maintainer: patricktbp
+Depends: mobilesubstrate, firmware (>=10.0), firmware (<< 11.0)
+Architecture: iphoneos-arm
+Filename: ./debs/Lockback.deb
+Size: 50342
+MD5sum: 4fa5fe33adc79e7b856efca97704fa8e
+Description: Bring back the classic Slide to Unlock mechanism!
+Name: Lockback
+Author: patricktbp
