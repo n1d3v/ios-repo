@@ -2,3 +2,5 @@
 My iOS repository for tweaks and themes! All of the tweaks hosted on this repository are mine.
 ### Tweaks
 - GlobalizeDiscordName (iOS 10+)
+- TransparentWidgets (iOS 14+) (Rootless variant!)
+- Lockback (iOS 10.x only!)

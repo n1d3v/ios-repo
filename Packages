@@ -44,8 +44,8 @@ Maintainer: patricktbp
 Depends: mobilesubstrate, firmware (>=10.0), firmware (<< 11.0)
 Architecture: iphoneos-arm
 Filename: ./debs/Lockback.deb
-Size: 50342
-MD5sum: 4fa5fe33adc79e7b856efca97704fa8e
+Size: 52292
+MD5sum: 17d9bfb6b8b28bc9659d24fbebcb6f0d
 Description: Bring back the classic Slide to Unlock mechanism!
 Name: Lockback
 Author: patricktbp
