@@ -38,14 +38,14 @@ Name: TransparentWidgets (Rootless)
 Author: patricktbp
 
 Package: com.patricktbp.lockback
-Version: 1.0
+Version: 1.1
 Section: Tweaks
 Maintainer: patricktbp
-Depends: mobilesubstrate, firmware (>=10.0), firmware (<< 11.0)
+Depends: mobilesubstrate, preferenceloader, firmware (>=10.0), firmware (<< 11.0)
 Architecture: iphoneos-arm
 Filename: ./debs/Lockback.deb
-Size: 52292
-MD5sum: 17d9bfb6b8b28bc9659d24fbebcb6f0d
+Size: 77294
+MD5sum: 8692b070bd8c48d0f4a7bea2fc82f537
 Description: Bring back the classic Slide to Unlock mechanism!
 Name: Lockback
 Author: patricktbp
