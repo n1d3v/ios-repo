@@ -4,7 +4,7 @@ Section: Tweaks
 Maintainer: patricktbp
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs/ForceNineAPI.deb
+Filename: ./debs/ForceNineAPI.deb
 Size: 5688
 Installed-Size: 136
 MD5sum: fcaf036bb2f463a2f7090b4883cd54b0
@@ -19,7 +19,7 @@ Section: Tweaks
 Maintainer: patricktbp
 Depends: mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm
-Filename: debs/GlobalizeDiscordNames.deb
+Filename: ./debs/GlobalizeDiscordNames.deb
 Size: 13070
 Installed-Size: 276
 MD5sum: 98f5bc06a9cd8d783db11498c7f720dd
@@ -34,7 +34,7 @@ Section: Tweaks
 Maintainer: patricktbp
 Depends: firmware (>= 14.0), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs/TransparentWidgetsRootful.deb
+Filename: ./debs/TransparentWidgetsRootful.deb
 Size: 12282
 Installed-Size: 108
 MD5sum: 5e368a20306d86e080fb661f277bbd9a
@@ -49,7 +49,7 @@ Section: Tweaks
 Maintainer: patricktbp
 Depends: firmware (>= 14.0), mobilesubstrate
 Architecture: iphoneos-arm64
-Filename: debs/TransparentWidgetsRootless.deb
+Filename: ./debs/TransparentWidgetsRootless.deb
 Size: 13252
 Installed-Size: 188
 MD5sum: 749cd486dd20501f5e956ce900d944f6
@@ -64,7 +64,7 @@ Section: Tweaks
 Maintainer: patricktbp
 Depends: mobilesubstrate, preferenceloader, firmware (>= 10.0), firmware (<< 11.0)
 Architecture: iphoneos-arm
-Filename: debs/Lockback.deb
+Filename: ./debs/Lockback.deb
 Size: 77294
 Installed-Size: 432
 MD5sum: 8692b070bd8c48d0f4a7bea2fc82f537
