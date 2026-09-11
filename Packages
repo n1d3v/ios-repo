@@ -1,12 +1,29 @@
+Package: com.patricktbp.forcenineapi
+Version: 1.0
+Section: Tweaks
+Maintainer: patricktbp
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/ForceNineAPI.deb
+Size: 5688
+Installed-Size: 136
+MD5sum: fcaf036bb2f463a2f7090b4883cd54b0
+SHA256: 21cf14586638e8fc12c8a902fe7eb41cd5fef32ada38857db237747ee7a1eeab
+Description: Forces legacy Discord clients to use /v9 instead of /v6.
+Name: ForceNineAPI
+Author: patricktbp
+
 Package: com.patricktbp.globalizediscordnames
 Version: 2.0
 Section: Tweaks
 Maintainer: patricktbp
 Depends: mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm
-Filename: ./debs/GlobalizeDiscordNames.deb
+Filename: debs/GlobalizeDiscordNames.deb
 Size: 13070
+Installed-Size: 276
 MD5sum: 98f5bc06a9cd8d783db11498c7f720dd
+SHA256: c12fd8f9c913768a6b37446a4a30134a38e12c691338f5a63ed2ee523fdc064e
 Description: Brings modern "Display Names" to older Discord versions.
 Name: GlobalizeDiscordNames
 Author: patricktbp
@@ -15,11 +32,13 @@ Package: com.patricktbp.twrootful
 Version: 1.0~beta1
 Section: Tweaks
 Maintainer: patricktbp
-Depends: firmware (>=14.0), mobilesubstrate
+Depends: firmware (>= 14.0), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/TransparentWidgetsRootful.deb
+Filename: debs/TransparentWidgetsRootful.deb
 Size: 12282
+Installed-Size: 108
 MD5sum: 5e368a20306d86e080fb661f277bbd9a
+SHA256: 3a8b4111e550224e2879314b58d4c543e404cb32f66911dc46e38adce72c6d06
 Description: Make all of your widgets blurred!
 Name: TransparentWidgets (Rootful)
 Author: patricktbp
@@ -28,11 +47,13 @@ Package: com.patricktbp.twrootless
 Version: 1.0~beta1
 Section: Tweaks
 Maintainer: patricktbp
-Depends: firmware (>=14.0), mobilesubstrate
+Depends: firmware (>= 14.0), mobilesubstrate
 Architecture: iphoneos-arm64
-Filename: ./debs/TransparentWidgetsRootless.deb
+Filename: debs/TransparentWidgetsRootless.deb
 Size: 13252
+Installed-Size: 188
 MD5sum: 749cd486dd20501f5e956ce900d944f6
+SHA256: 4ba3d94da4f106fe6947993b81bd3aa29b19adf6876a69be0ea8e5e622c13868
 Description: Make all of your widgets blurred!
 Name: TransparentWidgets (Rootless)
 Author: patricktbp
@@ -41,11 +62,13 @@ Package: com.patricktbp.lockback
 Version: 1.1
 Section: Tweaks
 Maintainer: patricktbp
-Depends: mobilesubstrate, preferenceloader, firmware (>=10.0), firmware (<< 11.0)
+Depends: mobilesubstrate, preferenceloader, firmware (>= 10.0), firmware (<< 11.0)
 Architecture: iphoneos-arm
-Filename: ./debs/Lockback.deb
+Filename: debs/Lockback.deb
 Size: 77294
+Installed-Size: 432
 MD5sum: 8692b070bd8c48d0f4a7bea2fc82f537
+SHA256: 6d647c2e6b8718afa2d297be8d08377ccd46ff5d3a44e7a30a6ee57be5ebadd6
 Description: Bring back the classic Slide to Unlock mechanism!
 Name: Lockback
 Author: patricktbp
